@@ -23,7 +23,7 @@ function reverse(num,left,right){
 
 }
 
-console.log(rotateArray([3,4,1,5,6],3))
+console.log(rotateArray([3,4,1,5,6],1))
 
 //temp=3
 //left=6
